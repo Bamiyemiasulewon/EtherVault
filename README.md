@@ -1,7 +1,7 @@
 # EtherWallet Contract
 
 ## Overview
-This Solidity smart contract, named EtherWallet, allows users to store and manage Ether. It provides functionalities for depositing Ether into the contract, withdrawing Ether from the contract, and checking the contract's current balance
+This Solidity smart contract, named EtherWallet, allows users to store and manage Ether. It provides functionalities for depositing Ether into the contract, withdrawing Ether from the contract, and checking the contract's current balance.
 
 ## Features
 - **Deposit Ether**: Users can deposit Ether into the contract by sending it directly to the contract address.
